@@ -16,7 +16,7 @@ for i in contribution:
         odd+=i
         
 if even> odd:
-    print("Output:",even)
+    print("The value you entered is:",even)
     
 else:
-    print("Output:",odd) 
+    print("The value you entered is:",odd) 
